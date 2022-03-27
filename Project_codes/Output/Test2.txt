@@ -1,0 +1,6 @@
+CD    ID    FD    WD    ED
+………………………………………………
+………………………………………………
+Missions: 4 [P: 4, E: 0]
+Rovers: 4 [P: 0, E: 4]
+Avg Wait = 0, Avg Exec = 0
